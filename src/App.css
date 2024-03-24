@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: gray;
+}
+
+.carousel-component-container {
+  z-index: -1;
+  width: 100%;
+  margin-top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.images {
+  margin: 20px;
+  border-radius: 20px;
+}
